@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460587689801",
+    "project_id": "flavoursdemo-36add",
+    "storage_bucket": "flavoursdemo-36add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460587689801:android:6cbc9b2b81f6f4e1b8dc98",
+        "android_client_info": {
+          "package_name": "com.flavours.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460587689801-fjtgatv62kksm7uk0pffd02clrufbq1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcneiDuuoOflT5KXNwoD2KMBWd_n5oeyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460587689801-fjtgatv62kksm7uk0pffd02clrufbq1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
